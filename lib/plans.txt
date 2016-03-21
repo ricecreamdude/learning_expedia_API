@@ -1,0 +1,4 @@
+Add middleware that does the following:
+
+- Parse JSON
+- Creates queries to Expedia API
