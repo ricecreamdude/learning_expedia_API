@@ -1,4 +1,6 @@
 Add middleware that does the following:
-
 - Parse JSON
 - Creates queries to Expedia API
+    - hotel get
+    - hotel review
+    - things to do
